@@ -1,0 +1,6 @@
+29 四月 2018 13:14:36,433 INFO  ~ Starting E:\workspace_idea_test\play-ms-service-demo-B\.
+29 四月 2018 13:14:39,254 WARN  ~ You're running Play! in DEV mode
+29 四月 2018 13:14:42,201 INFO  ~ Listening for HTTP on port 39000 (Waiting a first request to start) ...
+29 四月 2018 13:15:14,479 INFO  ~ Connected to jdbc:h2:mem:play;MODE=MYSQL;LOCK_MODE=0
+29 四月 2018 13:15:14,491 INFO  ~ Application 'play-ms-service-demo-B' is now started !
+29 四月 2018 13:15:15,738 INFO  ~ cost time: 1048 
